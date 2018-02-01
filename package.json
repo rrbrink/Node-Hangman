@@ -1,0 +1,23 @@
+{
+  "name": "week11-hangman",
+  "version": "1.0.0",
+  "description": "Using Node to play Hangman",
+  "main": "main.js",
+  "dependencies": {
+    "inquirer": "^1.2.1",
+    "is-letter": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rrbrink/nodeHangman"
+  },
+  "author": "Ryan Brinkerhoff",
+  "license": ""
+
+  }
+ 
+
